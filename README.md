@@ -1,1 +1,1 @@
-Helping young students practice math. Download matlab file to run application. When running the application, make sure to click off the answer box once your response it typed in.
+Helping young students practice math. Download matlab file to run application. Select a difficulty to change the amount of time you have to answer. Easy, Medium and Hard give users 10, 7, and 4 seconds respectively to answer each math question. Type answers in the answer fields and try to get ten in a row right for quiz to end.
